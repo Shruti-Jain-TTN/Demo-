@@ -1,0 +1,16 @@
+# Ignore all files ending with .txt
+*.txt
+
+# Ignore a specific file
+my_secret_file.json
+
+# Ignore all files in a specific directory
+build/
+dist/
+
+# Ignore files starting with . (hidden files)
+.DS_Store 
+
+# Ignore files ending with .a or .o (common object files)
+*.a
+*.o
