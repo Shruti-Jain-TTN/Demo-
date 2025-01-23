@@ -1,8 +1,8 @@
-# Ignore all files ending with .txt
-*.txt
 
 # Ignore a specific file
 my_secret_file.json
+file_name.html
+
 
 # Ignore all files in a specific directory
 build/
